@@ -16,7 +16,7 @@
 <br />
 <br />
 <hr/>
-### Spotify Playing 🎧
+ Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Theseregrets Spotify Playing" width="350" />](https://open.spotify.com/user/53cuaxr9ty26r6ze7msorj288)
 
