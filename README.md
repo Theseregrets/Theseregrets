@@ -1,5 +1,5 @@
 ### Hi there, I am Rishita 👋
-<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://gph.is/g/4gV79JJ" width="500" height="320" />
 
 
 - 🔭 I’m currently working on Web Development
