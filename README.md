@@ -54,6 +54,7 @@
 <br />
 <br />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&" alt="Theseregrets" />
 
 
 <details>
