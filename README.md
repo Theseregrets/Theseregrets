@@ -1,8 +1,7 @@
 ### Hi there, I am Rishita 👋
 
- <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="300" height="300" />
-<br />
-<br />
+ <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="300" height="250" />
+
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
