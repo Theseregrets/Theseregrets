@@ -6,7 +6,11 @@
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Facebook](https://www.facebook.com/rishita.shaw49) 
+- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="70px" alt="facebook"/> ](https://www.facebook.com/rishita.shaw49) 
+ [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="70px" alt="facebook"/> ](https://www.linkedin.com/in/rishita-shaw-75901a186/) 
+[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="50px" alt="twitter"/> ](https://twitter.com/ShawRishita)
+
+
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am very boring
 <br />
