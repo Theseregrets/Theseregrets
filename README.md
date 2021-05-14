@@ -1,6 +1,6 @@
 ### Hi there, I am Rishita 👋
 
- <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="340" />
+ <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
 
 - 🌱 I’m currently learning everything!
