@@ -88,4 +88,10 @@
 
 <img align="center" alt="Rishita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theseregrets&theme=tokyonight&hide_border=true&fire=DD2727" />
 </div>
+<br/>
+ <hr/>
+ <br/>
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=github&count_private=true)  
+
 
