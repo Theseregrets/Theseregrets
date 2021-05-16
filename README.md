@@ -2,6 +2,7 @@
 
  <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
+![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
@@ -27,6 +28,13 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Theseregrets Spotify Playing" width="350" />](https://open.spotify.com/user/53cuaxr9ty26r6ze7msorj288)
 
 </div>
+<details>
+<summary>Detailed Summary</summary>
+<br>
+    
+![Metrics](https://metrics.lecoq.io/Theseregrets?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+    
+</details>
 
  
 
