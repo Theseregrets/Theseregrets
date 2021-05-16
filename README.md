@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Anything
-- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook.svg" width="70px" alt="facebook"/> ](https://www.facebook.com/rishita.shaw49) 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" width="70px" alt="facebook"/> ](https://www.linkedin.com/in/rishita-shaw-75901a186/) 
+- 📫 How to reach me: [<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="40px" alt="facebook"/> ](https://www.facebook.com/rishita.shaw49) 
+ [<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="40px" alt="facebook"/> ](https://www.linkedin.com/in/rishita-shaw-75901a186/) 
 [<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="50px" alt="twitter"/> ](https://twitter.com/ShawRishita)
 
 
@@ -28,15 +28,6 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Theseregrets Spotify Playing" width="350" />](https://open.spotify.com/user/53cuaxr9ty26r6ze7msorj288)
 
 </div>
-<details>
-<summary>Detailed Summary</summary>
-<br>
-    
-![Metrics](https://metrics.lecoq.io/Theseregrets?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
-    
-</details>
-
- 
 
 
 <hr/>
@@ -102,4 +93,13 @@
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=github&count_private=true)  
 
+<details>
+<summary>Detailed Summary</summary>
+<br>
+    
+![Metrics](https://metrics.lecoq.io/Theseregrets?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+    
+</details>
+
+ 
 
