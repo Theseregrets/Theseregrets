@@ -9,7 +9,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: [<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" width="20px" alt="facebook"/> ](https://www.facebook.com/rishita.shaw49) 
  [<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20px" alt="facebook"/> ](https://www.linkedin.com/in/rishita-shaw-75901a186/) 
-[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="20px" alt="twitter"/> ](https://twitter.com/ShawRishita)
+[<img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" width="30px" alt="twitter"/> ](https://twitter.com/ShawRishita)
 
 
 - 😄 Pronouns: She/her
