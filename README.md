@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Anything
-- 📫 How to reach me: [<img align="center" src="https://img-premium.flaticon.com/png/512/3579/3579093.png?token=exp=1621433628~hmac=3ea34629c2d7ac9c7664c68ca11cad2a" width="30px" alt="facebook"/> ](https://www.facebook.com/rishita.shaw49) 
+- 📫 How to reach me: [<img align="center" src="https://img-premium.flaticon.com/png/512/3579/3579093.png?token=exp=1621433628~hmac=3ea34629c2d7ac9c7664c68ca11cad2a" width="30px" alt="facebook"/> ](https://www.facebook.com/theseregrets) 
  [<img align="center" src="https://img-premium.flaticon.com/png/512/725/725337.png?token=exp=1621433417~hmac=f35418457b1af778446ecf6bdfa1ab61" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/rishita-shaw-75901a186/) 
-[<img align="center" src="https://img-premium.flaticon.com/png/512/3578/3578922.png?token=exp=1621433348~hmac=70d3fe468f2f999e65ba49ddf17d82d9" width="30px" alt="twitter"/> ](https://twitter.com/ShawRishita)
+[<img align="center" src="https://img-premium.flaticon.com/png/512/3578/3578922.png?token=exp=1621433348~hmac=70d3fe468f2f999e65ba49ddf17d82d9" width="30px" alt="twitter"/> ](https://twitter.com/theseregrets)
 [<img align="center" src="https://img-premium.flaticon.com/png/512/3579/3579034.png?token=exp=1621433277~hmac=bd703cc36061847d0a0d761cb20efe8a" width="30px" alt="twitter"/> ](https://www.instagram.com/these_regrets/)
 
 
