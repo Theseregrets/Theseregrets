@@ -86,7 +86,8 @@
  
 ### Most Used Languages
 
-<img align="center" alt="Rishita's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theseregrets&theme=tokyonight&hide_border=true&fire=DD2727" />
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseregrets&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&fire=DD2727" />
 </div>
 <br/>
  <hr/>
