@@ -59,6 +59,8 @@
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="40" height="40"/> 
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="xd" width="40" height="40"/> 
+<img align="left" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="xd" width="40" height="40"/> 
+
  <br />
 <br /> 
 </div>
