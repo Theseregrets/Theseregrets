@@ -1,6 +1,6 @@
 ### Hi there, I am Rishita 👋
 
- <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
+ <img align="right" alt="GIF" src="taylor.gif" width="400" height="345" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
 
