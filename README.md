@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
 
+[My Resume!](https://drive.google.com/file/d/1vvAlN8HZTyGyMhqE-126jLw_DfvrDH_d/view?usp=sharing)
+
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about Anything
