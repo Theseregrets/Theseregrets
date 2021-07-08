@@ -7,7 +7,7 @@
 [My Resume!](https://drive.google.com/file/d/13seFKa5WBRHqHX5sMUqofpoLUzSCteJ1/view?usp=sharing)
 
 - 🌱 I’m currently learning everything!
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on DAPPs or AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/theseregrets) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/theseregrets/) 
