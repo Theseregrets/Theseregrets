@@ -1,4 +1,4 @@
-### Hi there, I am Rishita 👋
+<h1>Hi there, I am Rishita 👋</h1>
 
  <img align="right" alt="GIF" src="taylor.gif" width="400" height="345" />
 
