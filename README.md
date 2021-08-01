@@ -1,6 +1,6 @@
 <h1>Hi there, I am Rishita 👋</h1>
 
- <img align="right" alt="GIF" src="giphy (2).gif" width="400" height="345" />
+ <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
 
