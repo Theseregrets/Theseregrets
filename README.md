@@ -34,7 +34,8 @@
 </div>
 
  -->
-<hr/>
+ <hr/>
+ 
 
 
 ### Languages and Tools:
@@ -80,14 +81,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=tokyonight&hide_border=true&fire=DD2727" alt="Theseregrets" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=react&hide_border=true&fire=DD2727" alt="Theseregrets" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theseregrets&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
+ <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theseregrets&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -96,7 +97,7 @@
 ### Most Used Languages
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseregrets&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&fire=DD2727" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseregrets&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&fire=DD2727" />
 </div>
 <br/>
  <hr/>
