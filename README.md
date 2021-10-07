@@ -113,7 +113,7 @@
  <hr/>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=github&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=react-dark&hide_border=true&count_private=true)  
 
 <details>
 <summary>Detailed Summary</summary>
