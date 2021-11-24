@@ -97,7 +97,9 @@
 ### Most Used Languages
 
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theseregrets&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&fire=DD2727" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseregrets&langs_count=20&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
+    </a>
 </div>
 <br/>
  <hr/>
