@@ -94,6 +94,16 @@
 <div align="center">
  <hr/>
  
+### Productivity Stats
+
+
+ ![Rishita Shaw's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theseregrets&theme=react&hide_border=true&fire=DD2727)
+
+</div>
+<br/>
+<div align="center">
+ <hr/>
+ 
 ### Most Used Languages
 
 
