@@ -47,7 +47,7 @@
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="monokai" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/monokai/monokai.png" />
 <img align="left" alt="Gatsby" width="40px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -81,14 +81,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=react&hide_border=true&fire=DD2727" alt="Theseregrets" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=monokai&hide_border=true&fire=DD2727" alt="Theseregrets" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theseregrets&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727" />
+ <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theseregrets&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -97,7 +97,7 @@
 ### Productivity Stats
 
 
- ![Rishita Shaw's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theseregrets&theme=react&hide_border=true&fire=DD2727)
+ ![Rishita Shaw's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theseregrets&theme=monokai)
 
 </div>
 <br/>
@@ -108,7 +108,7 @@
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseregrets&langs_count=20&show_icons=true&hide_border=true&theme=react&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseregrets&langs_count=20&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 <br/>
@@ -125,7 +125,7 @@
  <hr/>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=react-dark&hide_border=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=monokai-dark&hide_border=true&count_private=true)  
 
 <details>
 <summary>Detailed Summary</summary>
