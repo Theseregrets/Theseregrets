@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
 
-[My Resume!](https://drive.google.com/file/d/1X6oBhmBjb3MJfwu2qElpUvp1MS9WjS1l/view?usp=sharing)
+[My Resume!](https://drive.google.com/file/d/1j_F12tNOo3giJpnE5vuCNwUsoA2Dk79e/view?usp=sharing)
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on DAPPs or AWS
