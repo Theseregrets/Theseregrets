@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
-![](https://komarev.com/ghpvc/?username=your-github-Theseregrets)
+![](https://komarev.com/ghpvc/?username=your-github-rishitashaw)
 
 [My Resume!](https://drive.google.com/file/d/1j_F12tNOo3giJpnE5vuCNwUsoA2Dk79e/view?usp=sharing)
 
@@ -10,8 +10,8 @@
 - 👯 I’m looking to collaborate on DAPPs or AWS
 - 💬 Ask me about Anything
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/theseregrets) 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/theseregrets/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/theseregrets)
+ [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/rishitashaw/) 
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/rishitashaw0)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram
  "/> ](https://www.instagram.com/these_regrets/)
 
@@ -82,14 +82,14 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theseregrets&theme=monokai&hide_border=true&fire=DD2727" alt="Theseregrets" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitashaw&theme=monokai&hide_border=true&fire=DD2727" alt="Theseregrets" />
 </div>
 <hr/>
 <div align="center">
  
  ### GitHub Stats
 
- <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Theseregrets&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
+ <img  alt="Rishita's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rishitashaw&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -109,7 +109,7 @@
 
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theseregrets&langs_count=20&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitashaw&langs_count=20&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 <br/>
@@ -119,20 +119,20 @@
  
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=theseregrets&theme=onedark&column=8" alt="zumrudu-anka" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=rishitashaw&theme=onedark&column=8" alt="zumrudu-anka" />
     </a>
 </div>
 <br/>
  <hr/>
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Theseregrets&theme=monokai-dark&hide_border=true&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishitashaw&theme=monokai-dark&hide_border=true&count_private=true)  
 
 <details>
 <summary>Detailed Summary</summary>
 <br>
     
-![Metrics](https://metrics.lecoq.io/Theseregrets?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/rishitashaw?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
     
 </details>
 
