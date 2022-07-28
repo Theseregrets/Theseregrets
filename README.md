@@ -22,11 +22,11 @@
 
 <h3> Blog posts <h3/>
 
-<img src="https://user-images.githubusercontent.com/75828535/181473507-e8a7bf3c-e635-4c56-be3c-09ffd4ef3d64.png" href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e" height="170"/>
+<img src="https://user-images.githubusercontent.com/75828535/181473507-e8a7bf3c-e635-4c56-be3c-09ffd4ef3d64.png" href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e" height="140"/>
 
-<img src="https://user-images.githubusercontent.com/75828535/181473666-91192056-6cf7-4d80-93c2-aee70d127dfa.png" href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81" height="170"/>
+<img src="https://user-images.githubusercontent.com/75828535/181473666-91192056-6cf7-4d80-93c2-aee70d127dfa.png" href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81" height="140"/>
 
-<img src="https://user-images.githubusercontent.com/75828535/181473804-2b2c3c17-7042-4a85-b249-53de2b02182f.png" href="https://dev.to/rishitashaw/microsoft-azure-data-fundamentals-cheat-sheet-36kp" height="160"/>
+<img src="https://user-images.githubusercontent.com/75828535/181473804-2b2c3c17-7042-4a85-b249-53de2b02182f.png" href="https://dev.to/rishitashaw/microsoft-azure-data-fundamentals-cheat-sheet-36kp" height="140"/>
 
 
 <!-- <div align='center'>
