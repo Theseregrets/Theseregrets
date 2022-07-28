@@ -1,4 +1,6 @@
 <h1>Hi there, I am Rishita 👋</h1>
+<img src="https://user-images.githubusercontent.com/75828535/181456531-2f2643cd-c6b9-433b-87e2-a191e36411ca.png"/>
+
 
  <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
@@ -7,13 +9,13 @@
 [My Resume!](https://drive.google.com/file/d/1j_F12tNOo3giJpnE5vuCNwUsoA2Dk79e/view?usp=sharing)
 
 - 🌱 I’m currently learning everything!
-- 👯 I’m looking to collaborate on DAPPs or AWS
+- 👯 I’m looking to collaborate on cloud
 - 💬 Ask me about Anything
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/theseregrets) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/rishitashaw/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/rishitashaw0)
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/rishitashaww)
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram
- "/> ](https://www.instagram.com/these_regrets/)
+ "/> ](https://www.instagram.com/rishitashaww/)
 
 
 - 😄 Pronouns: She/her
