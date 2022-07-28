@@ -38,7 +38,8 @@
  -->
  <hr/>
  
-
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 ### Languages and Tools:
 
