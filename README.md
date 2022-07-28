@@ -1,17 +1,18 @@
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rishitashaw/"/><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" href="https://dev.to/rishitashaw"/> ![](https://img.shields.io/badge/AMD-Ryzen_7_4600U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![](https://komarev.com/ghpvc/?username=your-github-rishitashaw)
+
 <h1>Hi there, I am Rishita 👋</h1>
-<img src="https://user-images.githubusercontent.com/75828535/181456531-2f2643cd-c6b9-433b-87e2-a191e36411ca.png"/>
 
 
  <img align="right" alt="GIF" src="ezgif.com-gif-maker (4).gif" width="400" height="345" />
 
-![](https://komarev.com/ghpvc/?username=your-github-rishitashaw)
+
 
 [My Resume!](https://drive.google.com/file/d/1j_F12tNOo3giJpnE5vuCNwUsoA2Dk79e/view?usp=sharing)
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on cloud
 - 💬 Ask me about Anything
-- 📫 How to reach me: <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" href="https://www.codechef.com/users/rishitashaw"/> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" href="https://leetcode.com/rishitashaw"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rishitashaw/"/>
+- 📫 See my coding profiles: <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" href="https://www.codechef.com/users/rishitashaw"/> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" href="https://leetcode.com/rishitashaw"/> 
 
 
 - 😄 Pronouns: She/her
