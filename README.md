@@ -18,7 +18,12 @@
 - ⚡ Fun fact: I am very boring
 <br />
 <br />
+<hr/>
 
+<h3> Blog posts <h3/>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- <div align='center'>
 
