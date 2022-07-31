@@ -10,7 +10,7 @@
 
 
 
-[My Resume!](https://drive.google.com/file/d/1j_F12tNOo3giJpnE5vuCNwUsoA2Dk79e/view?usp=sharing)
+[My Resume!](https://drive.google.com/file/d/14599d2PlWLTrdImGAJNcwKrbV2-T2QBL/view?usp=sharing)
 
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on cloud
