@@ -26,6 +26,10 @@
 
 <h3> Blog posts <h3/>
 
+<a href="https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30">Detecting intrusion in DevOps environments with AWS canary tokens</a>
+
+<a href="https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g">NIC Bonding and Everything you need to know using RHEL 9</a>
+
 <a href="https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc">CIDR: a brief overview & subnet calculation</a>
 
 <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e">AWS Cloud Practitioner Certification Cheat Sheet (Part 2/2)☁️⛅</a>
