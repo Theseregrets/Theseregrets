@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning everything!
 - 👯 I’m looking to collaborate on cloud
 - 💬 Ask me about Anything
-- 📫 See my coding profiles: <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" href="https://www.codechef.com/users/rishitashaw"/> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" href="https://leetcode.com/rishitashaw"/> 
+- 📫 See my coding profiles: <a href="https://www.codechef.com/users/rishitashaw"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" /></a>  <a href="https://leetcode.com/rishitashaw"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /> </a> 
 
 
 - 😄 Pronouns: She/her
