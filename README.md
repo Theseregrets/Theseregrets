@@ -25,7 +25,7 @@
 <hr/>
 
 <h3> Blog posts <h3/>
-
+<a href="https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a">All You Need to Know About FIDO2 & Passwordless Authentication</a>
 <a href="https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30">Detecting intrusion in DevOps environments with AWS canary tokens</a>
 
 <a href="https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g">NIC Bonding and Everything you need to know using RHEL 9</a>
