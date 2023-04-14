@@ -1,7 +1,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/rishitashaw/"/><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" href="https://dev.to/rishitashaw"/> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" href="https://rishitashaw.hashnode.dev/"/> ![](https://komarev.com/ghpvc/?username=your-github-rishitashaw)
 
+![Pink and Purple Professional LinkedIn Banner](https://user-images.githubusercontent.com/75828535/231975547-ca37ab42-b6d5-485d-a0cb-63d924b80dbc.png)
 
-![Purple Modern Gaming LinkedIn Banner](https://user-images.githubusercontent.com/75828535/181608789-2791a2b6-27a1-4aa5-9d5c-f88e2157f823.png)
+
 
 <h1>Hi there, I am Rishita 👋</h1>
 
