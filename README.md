@@ -27,7 +27,8 @@
 
 <h3> Blog posts <h3/>
 1. <a href="https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk">Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects</a>
-2. <a href="https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67">Securely Connecting Your Networks: An Introduction to Site-to-Site VPN</a><br/>
+
+ 2. <a href="https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67">Securely Connecting Your Networks: An Introduction to Site-to-Site VPN</a><br/>
 3. <a href="https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i">A beginner's guide to Termius: the ultimate terminal</a><br/>
 4. <a href="https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a">All You Need to Know About FIDO2 & Passwordless Authentication
  </a><br/>
