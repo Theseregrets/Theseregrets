@@ -26,16 +26,17 @@
 <hr/>
 
 <h3> Blog posts <h3/>
-1. <a href="https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67">Securely Connecting Your Networks: An Introduction to Site-to-Site VPN</a><br/>
-2. <a href="https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i">A beginner's guide to Termius: the ultimate terminal</a><br/>
-3. <a href="https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a">All You Need to Know About FIDO2 & Passwordless Authentication
+1. <a href="https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk">Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects</a>
+2. <a href="https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67">Securely Connecting Your Networks: An Introduction to Site-to-Site VPN</a><br/>
+3. <a href="https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i">A beginner's guide to Termius: the ultimate terminal</a><br/>
+4. <a href="https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a">All You Need to Know About FIDO2 & Passwordless Authentication
  </a><br/>
-4. <a href="https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30">Detecting intrusion in DevOps environments with AWS canary tokens</a><br/>
-5. <a href="https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g">NIC Bonding and Everything you need to know using RHEL 9</a><br/>
-6. <a href="https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc">CIDR: a brief overview & subnet calculation</a><br/>
-7. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e">AWS Cloud Practitioner Certification Cheat Sheet (Part 2/2)☁️⛅</a><br/>
-8. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81">AWS Cloud Practitioner Certification Cheat Sheet (Part 1/2)☁️⛅</a><br/>
-9. <a href="https://dev.to/rishitashaw/microsoft-azure-data-fundamentals-cheat-sheet-36kp">Microsoft Azure Data Fundamentals Cheat Sheet</a><br/>
+5. <a href="https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30">Detecting intrusion in DevOps environments with AWS canary tokens</a><br/>
+6. <a href="https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g">NIC Bonding and Everything you need to know using RHEL 9</a><br/>
+7. <a href="https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc">CIDR: a brief overview & subnet calculation</a><br/>
+8. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e">AWS Cloud Practitioner Certification Cheat Sheet (Part 2/2)☁️⛅</a><br/>
+9. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81">AWS Cloud Practitioner Certification Cheat Sheet (Part 1/2)☁️⛅</a><br/>
+10. <a href="https://dev.to/rishitashaw/microsoft-azure-data-fundamentals-cheat-sheet-36kp">Microsoft Azure Data Fundamentals Cheat Sheet</a><br/>
 
 <!-- <div align='center'>
 
