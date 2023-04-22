@@ -27,6 +27,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm)
 - [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
 - [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)
 - [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
@@ -38,7 +39,6 @@
 - [NIC Bonding and Everything you need to know using RHEL 9](https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g)
 - [CIDR: a brief overview &amp; subnet calculation](https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc)
 - [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 2/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e)
-- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 1/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3> Blog posts <h3/>
