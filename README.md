@@ -25,7 +25,11 @@
 <br />
 <hr/>
 
-<h3> Blog posts <h3/>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<!-- <h3> Blog posts <h3/>
 1. <a href="https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk">Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects</a>
 
  2. <a href="https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67">Securely Connecting Your Networks: An Introduction to Site-to-Site VPN</a><br/>
@@ -38,7 +42,7 @@
 8. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e">AWS Cloud Practitioner Certification Cheat Sheet (Part 2/2)☁️⛅</a><br/>
 9. <a href="https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81">AWS Cloud Practitioner Certification Cheat Sheet (Part 1/2)☁️⛅</a><br/>
 10. <a href="https://dev.to/rishitashaw/microsoft-azure-data-fundamentals-cheat-sheet-36kp">Microsoft Azure Data Fundamentals Cheat Sheet</a><br/>
-
+ -->
 <!-- <div align='center'>
 
 <br />
