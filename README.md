@@ -27,6 +27,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://dev.to/rishitashaw/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques-1njn)
+- [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)
+- [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
+- [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
+- [A beginner&#39;s guide to Termius: the ultimate terminal](https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3> Blog posts <h3/>
