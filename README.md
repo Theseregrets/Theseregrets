@@ -32,6 +32,13 @@
 - [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
 - [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
 - [A beginner&#39;s guide to Termius: the ultimate terminal](https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i)
+- [All You Need to Know About FIDO2 &amp; Passwordless Authentication](https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a)
+- [Interview Experience: Google SWE Internship Bangalore Or Hyderabad Jul 2023](https://dev.to/rishitashaw/interview-experience-google-swe-internship-bangalore-or-hyderabad-jul-2023-3mhi)
+- [Detecting intrusion in DevOps environments with AWS canary tokens](https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30)
+- [NIC Bonding and Everything you need to know using RHEL 9](https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g)
+- [CIDR: a brief overview &amp; subnet calculation](https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc)
+- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 2/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e)
+- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 1/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3> Blog posts <h3/>
