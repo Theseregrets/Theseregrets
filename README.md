@@ -27,18 +27,20 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm)
-- [Dynamic Programming Algorithms Every Programmer Should Know](https://dev.to/rishitashaw/dynamic-programming-algorithms-every-programmer-should-know-3915)
-- [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk)
-- [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://dev.to/rishitashaw/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn-5d67)
-- [A beginner&#39;s guide to Termius: the ultimate terminal](https://dev.to/rishitashaw/a-beginners-guide-to-termius-the-ultimate-terminal-555i)
-- [All You Need to Know About FIDO2 &amp; Passwordless Authentication](https://dev.to/rishitashaw/all-you-need-to-know-fido2-passwordless-authentication-329a)
-- [Interview Experience: Google SWE Internship Bangalore Or Hyderabad Jul 2023](https://dev.to/rishitashaw/interview-experience-google-swe-internship-bangalore-or-hyderabad-jul-2023-3mhi)
-- [Detecting intrusion in DevOps environments with AWS canary tokens](https://dev.to/rishitashaw/detecting-intrusion-in-devops-environments-with-aws-canary-tokens-5a30)
-- [NIC Bonding and Everything you need to know using RHEL 9](https://dev.to/rishitashaw/nic-bonding-and-everything-you-need-to-know-using-rhel-9-3f3g)
-- [CIDR: a brief overview &amp; subnet calculation](https://dev.to/rishitashaw/cidr-a-brief-overview-subnet-calculation-pfc)
-- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 2/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-23-489e)
-- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 1/2&rpar;☁️⛅](https://dev.to/rishitashaw/aws-cloud-practitioner-certification-cheat-sheet-part-13-1k81)
+- [Deep Dive into Hyperledger Fabric 2.0: Understanding the Architecture, Code Structure, and Deployment Process](https://rishitashaw.hashnode.dev/deep-dive-into-hyperledger-fabric-20-understanding-the-architecture-code-structure-and-deployment-process)
+- [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://rishitashaw.hashnode.dev/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review)
+- [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://rishitashaw.hashnode.dev/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques)
+- [Dynamic Programming Algorithms Every Programmer Should Know](https://rishitashaw.hashnode.dev/dynamic-programming-algorithms-every-programmer-should-know)
+- [Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects](https://rishitashaw.hashnode.dev/docker-unleashed-mastering-commands-basics-learning-resources-and-career-prospects)
+- [Securely Connecting Your Networks: An Introduction to Site-to-Site VPN](https://rishitashaw.hashnode.dev/securely-connecting-your-networks-an-introduction-to-site-to-site-vpn)
+- [All You Need to Know FIDO2 &amp; Passwordless Authentication](https://rishitashaw.hashnode.dev/all-you-need-to-know-fido2-and-passwordless-authentication)
+- [Interview Experience: Google SWE Internship Bangalore Or Hyderabad Jul 2023](https://rishitashaw.hashnode.dev/interview-experience-google-swe-internship-bangalore-or-hyderabad-jul-2023)
+- [Detecting intrusion in DevOps environments with AWS canary tokens](https://rishitashaw.hashnode.dev/detecting-intrusion-in-devops-environments-with-aws-canary-tokens)
+- [NIC Bonding and Everything you need to know using RHEL 9](https://rishitashaw.hashnode.dev/nic-bonding-and-everything-you-need-to-know-using-rhel-9)
+- [CIDR: a brief overview &amp; subnet calculation](https://rishitashaw.hashnode.dev/cidr-a-brief-overview-and-subnet-calculation)
+- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 2/2&rpar;☁️⛅](https://rishitashaw.hashnode.dev/aws-cloud-practitioner-certification-cheat-sheet-part-22-1)
+- [AWS Cloud Practitioner Certification Cheat Sheet &lpar;Part 1/2&rpar;☁️⛅](https://rishitashaw.hashnode.dev/aws-cloud-practitioner-certification-cheat-sheet-part-12)
+- [Microsoft Azure Data Fundamentals Cheat Sheet](https://rishitashaw.hashnode.dev/microsoft-azure-data-fundamentals-cheat-sheet)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- <h3> Blog posts <h3/>
