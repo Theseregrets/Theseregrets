@@ -27,6 +27,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [VPC/VCN: How it works?!](https://rishitashaw.hashnode.dev/vpcvcn-how-it-works)
 - [Deep Dive into Hyperledger Fabric 2.0: Understanding the Architecture, Code Structure, and Deployment Process](https://rishitashaw.hashnode.dev/deep-dive-into-hyperledger-fabric-20-understanding-the-architecture-code-structure-and-deployment-process)
 - [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://rishitashaw.hashnode.dev/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review)
 - [Mastering Graph Algorithms for Competitive Programming: From Basics to Advanced Techniques](https://rishitashaw.hashnode.dev/mastering-graph-algorithms-for-competitive-programming-from-basics-to-advanced-techniques)
