@@ -148,7 +148,7 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitashaw&theme=monokai&hide_border=true&fire=DD2727" alt="Theseregrets" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishitashaw&theme=monokai&hide_border=true&fire=DD2727" alt="Rishita Shaw" />
 </div>
 <hr/>
 <div align="center">
@@ -164,7 +164,7 @@
 ### Productivity Stats
 
 
- ![Rishita Shaw's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theseregrets&theme=monokai)
+ ![Rishita Shaw's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishitashaw&theme=monokai)
 
 </div>
 <br/>
@@ -198,7 +198,7 @@
 <summary>Detailed Summary</summary>
 <br>
     
-![Metrics](https://metrics.lecoq.io/rishitashaw?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
+![Metrics](https://metrics.lecoq.io/rishitashawtemplate=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
     
 </details>
 
