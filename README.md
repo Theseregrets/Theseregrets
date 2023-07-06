@@ -124,6 +124,7 @@
 ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Express-092E20?style=for-the-badge&logo=express&logoColor=white)
 
 <h3 align="left">Designing:</h3>
 
@@ -171,12 +172,11 @@
 <div align="center">
  <hr/>
  
-### Most Used Languages
+### My Spotify
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishitashaw&langs_count=20&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727&layout=compact&custom_title=Most used languages on GitHub" />
-    </a>
+
+[![Spotify](https://spotify-adityajoshi12.vercel.app/api/spotify)](https://open.spotify.com/user/53cuaxr9ty26r6ze7msorj288)
 </div>
 <br/>
  <hr/>
