@@ -27,6 +27,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IPFS Clustering with Kubernetes: Advancing Decentralized File Sharing through Resilient Architecture](https://rishitashaw.hashnode.dev/ipfs-clustering-with-kubernetes-advancing-decentralized-file-sharing-through-resilient-architecture)
 - [VPC/VCN: How it works?!](https://rishitashaw.hashnode.dev/vpcvcn-how-it-works)
 - [Deep Dive into Hyperledger Fabric 2.0: Understanding the Architecture, Code Structure, and Deployment Process](https://rishitashaw.hashnode.dev/deep-dive-into-hyperledger-fabric-20-understanding-the-architecture-code-structure-and-deployment-process)
 - [Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review](https://rishitashaw.hashnode.dev/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review)
